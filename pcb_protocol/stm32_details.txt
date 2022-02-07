@@ -1,0 +1,7 @@
+Main MCU is a STM32F103C8T6, firmware is ZIOS, Zhousensor's propriety firmware.
+Said to have write protect, all content will be wiped if tampered, if you wanna trust his word.
+
+Touch chips have their markings stratched off. (SOP20?)
+
+Air tower's MCU also has its markings stratched off, but its safe to assume its just works as an ADC.
+I have written a test sketch for arduino to emulate interfacing with the main MCU.
