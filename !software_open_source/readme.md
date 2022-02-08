@@ -1,13 +1,13 @@
 # Open source software for this controller
 
----
+## ᴄʜᴜɴɪɪᴏ.ᴅʟʟ (By CrazyRedMachine)
 
-| Files                 | Info                                             |
-| --------------------- | ------------------------------------------------ |
-| chuniio               | chuniio.dll and chunitest.exe source in C/CMake  |
-| chuniio.zip           | chuniio.dll and chunitest.exe binaries           |
+| Files       | Info                                            |
+| ----------- | ----------------------------------------------- |
+| ᴄʜᴜɴɪɪᴏ     | ᴄʜᴜɴɪɪᴏ.ᴅʟʟ and ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ source in C/CMake |
+| ᴄʜᴜɴɪɪᴏ.ᴢɪᴘ | ᴄʜᴜɴɪɪᴏ.ᴅʟʟ and ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ binaries          |
 
-chunitest.exe will load chuniio.dll to test the controller and thus can be used to test any chuniio.dll implementation for any other controller as well.
+ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ will load ᴄʜᴜɴɪɪᴏ.ᴅʟʟ to test the controller and thus can be used to test any ᴄʜᴜɴɪɪᴏ.ᴅʟʟ implementation for any other controller as well.
 
 ## Build instructions
 
@@ -19,4 +19,5 @@ cd build
 cmake .. -G "MinGW Makefiles"
 make
 ```
+
 
