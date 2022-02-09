@@ -2,11 +2,11 @@
 
 ## [slidershim](https://github.com/4yn/slidershim) by [4yn](https://github.com/4yn)
 
-Software for interfacing with the controller , output keyboard presses and controls LED lights
+Software for interfacing with the controller, outputs keyboard presses and controls LED lights
 
 ---
 
-## ᴄʜᴜɴɪɪᴏ.ᴅʟʟ (By [CrazyRedMachine](https://github.com/CrazyRedMachine))
+## ᴄʜᴜɴɪɪᴏ.ᴅʟʟ By [CrazyRedMachine](https://github.com/CrazyRedMachine)
 
 | Files       | Info                                            |
 | ----------- | ----------------------------------------------- |
