@@ -6,11 +6,11 @@ Software for interfacing with the controller, outputs keyboard presses and contr
 
 ---
 
-## ᴄʜᴜɴɪɪᴏ.ᴅʟʟ By [CrazyRedMachine](https://github.com/CrazyRedMachine)
+## ᴄʜᴜɴɪɪᴏ.ᴅʟʟ by [CrazyRedMachine](https://github.com/CrazyRedMachine)
 
 | Files       | Info                                            |
 | ----------- | ----------------------------------------------- |
-| ᴄʜᴜɴɪɪᴏ     | ᴄʜᴜɴɪɪᴏ.ᴅʟʟ and ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ source in C/CMake |
+| ᴄʜᴜɴɪɪᴏ	  | ᴄʜᴜɴɪɪᴏ.ᴅʟʟ and ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ source in C/CMake |
 | ᴄʜᴜɴɪɪᴏ.ᴢɪᴘ | ᴄʜᴜɴɪɪᴏ.ᴅʟʟ and ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ binaries          |
 
 ᴄʜᴜɴɪᴛᴇsᴛ.ᴇxᴇ will load ᴄʜᴜɴɪɪᴏ.ᴅʟʟ to test the controller and thus can be used to test any ᴄʜᴜɴɪɪᴏ.ᴅʟʟ implementation for any other controller as well.

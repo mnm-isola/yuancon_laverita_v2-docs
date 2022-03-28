@@ -58,7 +58,7 @@ Said to have write protect, all content will be wiped if tampered, if you wanna 
 
 Pinout is in [this](zhou_chuni_stm32.png) picture provided by ZhouSensor.
 
-[Touch chips](../pcb_pics/main_board/7.jpg) (4 of them) have their markings lasered off. (SOP20?)
+[Touch chips](../pcb_pics/main_board/7.jpg) (4 of them) have their markings lasered off. (TSSOP-20?) (suitable canadiate: [STC8F1K08S2A10](http://www.stcmicro.com/datasheet/STC8F-en.pdf))
 
 - [Here](zhou_chuni_touchchip.png)'s the communication protocol provided by ZhouSensor.
 

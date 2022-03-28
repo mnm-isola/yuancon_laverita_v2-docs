@@ -1,0 +1,36 @@
+Touch chips x4
+SENSOR	    |	SENSOR
+SENSOR      |	SENSOR
+SENSOR      |	NC
+SENSOR      |	NC
+SENSOR      |	NC
+SENSOR      |	NC
+NC          |	???
+3v3			|	????
+NC          |	SIG1	WITH TEST POINT
+GND         |	SIG2	WITH TEST POINT
+
+
+RESISTOR ARRAY 100ohm #1 (leftmost)
+???			|	3v3
+????		|	3v3
+SIG1		|	stm32f103c8t6 pa3 tx-touch
+SIG2		|	stm32f103c8t6 pa2 rx-touch
+
+RESISTOR ARRAY 100ohm #2
+???			|	GND
+????		|	3v3
+SIG1		|	stm32f103c8t6 pa3 tx-touch
+SIG2		|	stm32f103c8t6 pa2 rx-touch
+
+RESISTOR ARRAY 100ohm #3
+???			|	3v3
+????		|	GND
+SIG1		|	stm32f103c8t6 pa3 tx-touch
+SIG2		|	stm32f103c8t6 pa2 rx-touch
+
+RESISTOR ARRAY 100ohm #4 (rightmost)
+???			|	GND
+????		|	GND
+SIG1		|	stm32f103c8t6 pa3 tx-touch
+SIG2		|	stm32f103c8t6 pa2 rx-touch

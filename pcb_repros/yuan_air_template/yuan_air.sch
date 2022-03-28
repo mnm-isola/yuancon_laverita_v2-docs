@@ -1,0 +1,104 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 61AC98FA
+P 1150 1300
+F 0 "H1" H 1250 1346 50  0000 L CNN
+F 1 "MountingHole" H 1250 1255 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 1150 1300 50  0001 C CNN
+F 3 "~" H 1150 1300 50  0001 C CNN
+	1    1150 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 61AC9ECD
+P 1150 1650
+F 0 "H2" H 1250 1696 50  0000 L CNN
+F 1 "MountingHole" H 1250 1605 50  0000 L CNN
+F 2 "MountingHole:MountingHole_4.3mm_M4" H 1150 1650 50  0001 C CNN
+F 3 "~" H 1150 1650 50  0001 C CNN
+	1    1150 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 61ACA4CF
+P 2550 1750
+F 0 "D1" H 2543 1967 50  0000 C CNN
+F 1 "LED" H 2543 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 2550 1750 50  0001 C CNN
+F 3 "~" H 2550 1750 50  0001 C CNN
+	1    2550 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 61ACADDE
+P 3250 1750
+F 0 "D2" H 3243 1967 50  0000 C CNN
+F 1 "LED" H 3243 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 3250 1750 50  0001 C CNN
+F 3 "~" H 3250 1750 50  0001 C CNN
+	1    3250 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 61ACB281
+P 3850 1750
+F 0 "D3" H 3843 1967 50  0000 C CNN
+F 1 "LED" H 3843 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 3850 1750 50  0001 C CNN
+F 3 "~" H 3850 1750 50  0001 C CNN
+	1    3850 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 61ACBD55
+P 4600 1750
+F 0 "D4" H 4593 1967 50  0000 C CNN
+F 1 "LED" H 4593 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 4600 1750 50  0001 C CNN
+F 3 "~" H 4600 1750 50  0001 C CNN
+	1    4600 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D5
+U 1 1 61ACC693
+P 5150 1750
+F 0 "D5" H 5143 1967 50  0000 C CNN
+F 1 "LED" H 5143 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 5150 1750 50  0001 C CNN
+F 3 "~" H 5150 1750 50  0001 C CNN
+	1    5150 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 61ACC8CC
+P 5750 1750
+F 0 "D6" H 5743 1967 50  0000 C CNN
+F 1 "LED" H 5743 1876 50  0000 C CNN
+F 2 "LED_THT:LED_D5.0mm" H 5750 1750 50  0001 C CNN
+F 3 "~" H 5750 1750 50  0001 C CNN
+	1    5750 1750
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
